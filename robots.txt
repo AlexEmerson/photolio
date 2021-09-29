@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://photolio.by/sitemap/sitemap-index.xml
+Host: https://photolio.by
